@@ -18,6 +18,8 @@ Date: April 29, 2025
 
 
 
+
+
 Dataset Description:
 
 The dataset Data_set 2.csv consists of 40 rows (respondents) and 24 columns, capturing investment preferences and related attributes:
@@ -35,6 +37,8 @@ Duration, investment_monitoring: Investment duration and monitoring frequency
 Source: Source of investment information
 
 Investment rankings (e.g., Mutual_Funds, Equity_Market, Government_Bonds, Fixed_Deposits, PPF)
+
+
 
 
 
@@ -72,6 +76,8 @@ Transform the data as needed (e.g., unpivot reason columns for Task 5).
 
 
 
+
+
 Overall Insights for Decision-Making
 
 1. Targeting Young Investors with Growth-Oriented Products
@@ -100,18 +106,25 @@ Gender trends reveal distinct preferences, with males leaning towards safety, fa
 Financial Consultants are the most relied-upon information source at 40%, followed by Newspapers and Magazines at 35%, with males showing a stronger preference for consultants, likely due to their higher representation (25 males vs. 15 females), while digital sources like the Internet lag at 10%. This indicates a preference for professional and traditional media over digital channels among this investor group. Financial institutions should partner with financial consultants to build trust and reach investors effectively, leverage traditional media for broad outreach, and simultaneously invest in digital platforms to capture younger, tech-savvy investors over time, ensuring a multi-channel approach that aligns with current information-seeking behaviors.
 
 
+
+
 Project Structure
+
 Data_set 2.csv: The raw dataset used for analysis.
 
-Investment_Analysis.pbix: Power BI report file containing visualizations and insights for Tasks 3 and 5.
+Investment_Analysis.pbix: Power BI report file containing visualizations and insights Tasks
 
 README.md: Project documentation.
 
+
+
 Contact
+
 For questions or collaboration opportunities, feel free to reach out:
+
 Name: Akshita
 
-Email: [Insert your email address]
+Email: [akshitadhillo@gmail.com]
 
 LinkedIn: [Insert your LinkedIn profile URL]
 
