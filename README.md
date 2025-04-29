@@ -48,7 +48,7 @@ Investment rankings (e.g., Mutual_Funds, Equity_Market, Government_Bonds, Fixed_
    
 Power BI Desktop: Install the latest version of Power BI Desktop (available for free from the Microsoft website).
 
-Dataset: Ensure Data_set 2.csv is available in your working directory.
+Dataset: Ensure Data_set 2.xlsx is available in your working directory.
 
 2. Installation and Setup
 
