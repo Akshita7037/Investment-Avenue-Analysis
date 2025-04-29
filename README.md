@@ -1,10 +1,10 @@
-Project Overview:
+✅ Project Overview:
 
 This project leverages Power BI to analyze investment preferences and behaviors based on the dataset Data_set 2.csv, which includes responses from 40 individuals about their investment choices, savings objectives, and related factors. The goal is to perform exploratory data analysis, visualize trends, and derive actionable insights through a series of tasks, culminating in an interactive dashboard. The project explores demographic patterns, investment objectives, reasons for investment, monitoring habits, and information sources, providing a comprehensive view of investor behavior.
 
 
 
-Project Details:
+✅ Project Details:
 
 Project Name: Investment Preferences Analysis
 
@@ -20,7 +20,7 @@ Date: April 29, 2025
 
 
 
-Dataset Description:
+✅ Dataset Description:
 
 The dataset Data_set 2.csv consists of 40 rows (respondents) and 24 columns, capturing investment preferences and related attributes:
 
@@ -42,7 +42,7 @@ Investment rankings (e.g., Mutual_Funds, Equity_Market, Government_Bonds, Fixed_
 
 
 
-Project Setup:
+✅ Project Setup:
 
 1. Prerequisites
    
@@ -78,7 +78,7 @@ Transform the data as needed (e.g., unpivot reason columns for Task 5).
 
 
 
-Overall Insights for Decision-Making
+✅ Overall Insights for Decision-Making
 
 1. Targeting Young Investors with Growth-Oriented Products
 
@@ -108,7 +108,7 @@ Financial Consultants are the most relied-upon information source at 40%, follow
 
 
 
-Project Structure
+✅ Project Structure
 
 Data_set 2.csv: The raw dataset used for analysis.
 
@@ -118,7 +118,7 @@ README.md: Project documentation.
 
 
 
-Contact
+✅ Contact
 
 For questions or collaboration opportunities, feel free to reach out:
 
@@ -126,7 +126,7 @@ Name: Akshita
 
 Email: [akshitadhillo@gmail.com]
 
-LinkedIn: [Insert your LinkedIn profile URL]
+LinkedIn: [https://www.linkedin.com/in/akshita-dhillo-855aa8265]
 
 
 
