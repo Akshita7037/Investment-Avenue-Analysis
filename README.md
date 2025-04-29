@@ -6,7 +6,7 @@ This project leverages Power BI to analyze investment preferences and behaviors 
 
 ✅ Project Details:
 
-Project Name: Investment Avenues Analysis
+Project Name: Investment Preferences Analysis
 
 Dataset: Data_set 2.xlsx (40 respondents, 24 columns)
 
