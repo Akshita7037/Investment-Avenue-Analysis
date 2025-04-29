@@ -22,7 +22,7 @@ Date: April 29, 2025
 
 ✅ Dataset Description:
 
-The dataset Data_set 2.csv consists of 40 rows (respondents) and 24 columns, capturing investment preferences and related attributes:
+The dataset Data_set 2.xlsx consists of 40 rows (respondents) and 24 columns, capturing investment preferences and related attributes:
 
 gender, age: Demographic information
 
