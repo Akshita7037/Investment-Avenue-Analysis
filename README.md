@@ -1,6 +1,6 @@
 ✅ Project Overview:
 
-This project leverages Power BI to analyze investment preferences and behaviors based on the dataset Data_set 2.csv, which includes responses from 40 individuals about their investment choices, savings objectives, and related factors. The goal is to perform exploratory data analysis, visualize trends, and derive actionable insights through a series of tasks, culminating in an interactive dashboard. The project explores demographic patterns, investment objectives, reasons for investment, monitoring habits, and information sources, providing a comprehensive view of investor behavior.
+This project leverages Power BI to analyze investment preferences and behaviors based on the dataset Data_set 2.xlsx, which includes responses from 40 individuals about their investment choices, savings objectives, and related factors. The goal is to perform exploratory data analysis, visualize trends, and derive actionable insights through a series of tasks, culminating in an interactive dashboard. The project explores demographic patterns, investment objectives, reasons for investment, monitoring habits, and information sources, providing a comprehensive view of investor behavior.
 
 
 
@@ -8,7 +8,7 @@ This project leverages Power BI to analyze investment preferences and behaviors 
 
 Project Name: Investment Preferences Analysis
 
-Dataset: Data_set 2.csv (40 respondents, 24 columns)
+Dataset: Data_set 2.xlsx (40 respondents, 24 columns)
 
 Tool Used: Power BI Desktop
 
@@ -58,7 +58,7 @@ Download and install Power BI Desktop from Microsoft's official website.
 
 II. Clone or Download the Project:
 
-Clone this repository or download the project files, including Data_set 2.csv and the Power BI report file (Investment_Analysis.pbix).
+Clone this repository or download the project files, including Data_set 2.xlsx and the Power BI report file (Investment_Analysis.pbix).
 
 III. Open the Power BI Report:
 
@@ -68,9 +68,9 @@ Open Investment_Analysis.pbix to view the completed tasks and visualizations.
 
 IV. Load the Dataset (if starting fresh):
 
-In Power BI Desktop, go to Get Data > Text/CSV.
+In Power BI Desktop, go to Get Data > xlsx/workbook.
 
-Select Data_set 2.csv and click Load.
+Select Data_set 2.xlsx and click Load.
 
 Transform the data as needed (e.g., unpivot reason columns for Task 5).
 
@@ -110,7 +110,7 @@ Financial Consultants are the most relied-upon information source at 40%, follow
 
 ✅ Project Structure
 
-Data_set 2.csv: The raw dataset used for analysis.
+Data_set 2.xlsx: The raw dataset used for analysis.
 
 Investment_Analysis.pbix: Power BI report file containing visualizations and insights Tasks
 
